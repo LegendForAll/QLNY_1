@@ -1,0 +1,12 @@
+D:\WinFormC#\QLNY_1\QLNGDAL\obj\Debug\QLNGDAL.vbprojResolveAssemblyReference.cache
+D:\WinFormC#\QLNY_1\QLNGDAL\obj\Debug\QLNGDAL.Resources.resources
+D:\WinFormC#\QLNY_1\QLNGDAL\obj\Debug\QLNGDAL.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLNY_1\QLNGDAL\obj\Debug\QLNGDAL.xml
+D:\WinFormC#\QLNY_1\QLNGDAL\bin\Debug\QLNGDAL.dll
+D:\WinFormC#\QLNY_1\QLNGDAL\bin\Debug\QLNGDAL.pdb
+D:\WinFormC#\QLNY_1\QLNGDAL\bin\Debug\QLNGDAL.xml
+D:\WinFormC#\QLNY_1\QLNGDAL\obj\Debug\QLNGDAL.dll
+D:\WinFormC#\QLNY_1\QLNGDAL\obj\Debug\QLNGDAL.pdb
+D:\WinFormC#\QLNY_1\QLNGDAL\bin\Debug\QLNYDTO.dll
+D:\WinFormC#\QLNY_1\QLNGDAL\bin\Debug\QLNYDTO.pdb
+D:\WinFormC#\QLNY_1\QLNGDAL\bin\Debug\QLNYDTO.xml

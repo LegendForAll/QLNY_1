@@ -1,0 +1,12 @@
+D:\WinFormC#\QLNY_1\QLNY_1\bin\Debug\QLNY_1.exe.config
+D:\WinFormC#\QLNY_1\QLNY_1\bin\Debug\QLNY_1.exe
+D:\WinFormC#\QLNY_1\QLNY_1\bin\Debug\QLNY_1.pdb
+D:\WinFormC#\QLNY_1\QLNY_1\bin\Debug\QLNY_1.xml
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.Form1.resources
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.Resources.resources
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.Them_NG.resources
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.exe
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.xml
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.pdb
+D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.vbprojResolveAssemblyReference.cache

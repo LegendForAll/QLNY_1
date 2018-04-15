@@ -1,0 +1,9 @@
+D:\WinFormC#\QLNY_1\QLNYDTO\bin\Debug\QLNYDTO.dll
+D:\WinFormC#\QLNY_1\QLNYDTO\bin\Debug\QLNYDTO.pdb
+D:\WinFormC#\QLNY_1\QLNYDTO\bin\Debug\QLNYDTO.xml
+D:\WinFormC#\QLNY_1\QLNYDTO\obj\Debug\QLNYDTO.vbprojResolveAssemblyReference.cache
+D:\WinFormC#\QLNY_1\QLNYDTO\obj\Debug\QLNYDTO.Resources.resources
+D:\WinFormC#\QLNY_1\QLNYDTO\obj\Debug\QLNYDTO.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLNY_1\QLNYDTO\obj\Debug\QLNYDTO.dll
+D:\WinFormC#\QLNY_1\QLNYDTO\obj\Debug\QLNYDTO.xml
+D:\WinFormC#\QLNY_1\QLNYDTO\obj\Debug\QLNYDTO.pdb

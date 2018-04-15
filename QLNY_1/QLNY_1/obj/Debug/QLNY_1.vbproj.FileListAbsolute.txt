@@ -10,3 +10,7 @@ D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.exe
 D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.xml
 D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.pdb
 D:\WinFormC#\QLNY_1\QLNY_1\obj\Debug\QLNY_1.vbprojResolveAssemblyReference.cache
+D:\Operator\web_text\QLNY_1\QLNY_1\bin\Debug\QLNY_1.exe.config
+D:\Operator\web_text\QLNY_1\QLNY_1\obj\Debug\QLNY_1.exe
+D:\Operator\web_text\QLNY_1\QLNY_1\obj\Debug\QLNY_1.xml
+D:\Operator\web_text\QLNY_1\QLNY_1\obj\Debug\QLNY_1.pdb
